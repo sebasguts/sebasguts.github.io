@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: Jupyter in GAP and other CAS
 ---
 We are happy to annouce our Workshop [Jupyter in GAP and other CAS](http://gapdays.de/gap-jupyter-days2018/).
+<!--more-->
 
 The aim of this workshop is to bring together
 people who are developing or using these technologies, and people
