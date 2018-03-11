@@ -6,7 +6,7 @@ permalink: /conferences/
 
 Conferences and workshops I attend(ed) or (co)organize(d):
 
-## Organized
+## Organizer
 
 ### Upcoming
 
@@ -20,11 +20,10 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 | OSCAR Coding Sprint (invite only), Aachen, Germany, January 15 - January 19, 2018
 
-## Attended
+## Attendee
 
 ### Upcoming
 
-| [GDMV Tagung](http://www.gdmv2018.de/), Paderborn, Germany, March 5 - March 9, 2018
 | [Research visit at IMA](https://ima.umn.edu/2017-2018.2), Minneapolis, MN, April 2 - April 14, 2018
 | [Workshop on low-level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251), Cernay-la-Ville, France, April 30 - May 4, 2018
 | [Annual meeting SFB TRR 195](http://www.math.uni-tuebingen.de/arbeitsbereiche/geometrie/annual-meeting-sfb-trr-195-1), Tübingen, Germany, September 24 - September 28, 2018
@@ -33,5 +32,6 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 #### 2018
 
-| [Jupyter Widget Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), Paris, France, January 23 - January 26, 2018
+| [GDMV Tagung](http://www.gdmv2018.de/), Paderborn, Germany, March 5 - March 9, 2018
 | [9th polymake workshop and developer conference](https://polymake.org/doku.php/workshop0218), Berlin, Germany, February 8 - February 10, 2018
+| [Jupyter Widget Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), Paris, France, January 23 - January 26, 2018
