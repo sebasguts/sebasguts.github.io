@@ -32,6 +32,6 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 #### 2018
 
-| [GDMV Tagung](http://www.gdmv2018.de/), Paderborn, Germany, March 5 - March 9, 2018
+| [GDMV Tagung](http://www.gdmv2018.de/), Paderborn, Germany, March 5 - March 9, 2018 [(Slides)](../downloads/2018_03_06_GDMV2018.pdf)
 | [9th polymake workshop and developer conference](https://polymake.org/doku.php/workshop0218), Berlin, Germany, February 8 - February 10, 2018
 | [Jupyter Widget Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), Paris, France, January 23 - January 26, 2018
