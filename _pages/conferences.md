@@ -10,7 +10,6 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 ### Upcoming
 
-| OSCAR Coding Sprint (invite only), Siegen, Germany, May 14 - May 18, 2018
 | [Jupyter in GAP and other CAS](http://gapdays.de/gap-jupyter-days2018/), St Andrews, UK, June 4 - June 8, 2018
 | [CAP Days 2018](https://homalg-project.github.io/capdays-2018/), Siegen, Germany, August 28 - August 31, 2018
 
@@ -18,6 +17,7 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 #### 2018
 
+| OSCAR Coding Sprint (invite only), Siegen, Germany, May 14 - May 18, 2018
 | OSCAR Coding Sprint (invite only), Aachen, Germany, January 15 - January 19, 2018
 
 ## Attendee
