@@ -29,3 +29,8 @@ ENC-D 207
 <a class="social-btn" style="white-space: nowrap" href="tel:+49 271 740-3603" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-fw fa-phone">+49 271 740-3603</i>
 </a>
+
+
+### Email
+
+[gutsche@mathematik.uni-siegen.de](mailto:gutsche@mathematik.uni-siegen.de)
