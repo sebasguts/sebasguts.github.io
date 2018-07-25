@@ -16,11 +16,10 @@ April 2016 - Dec. 2016
 
 July 2013 - March 2016
 :    Research assistant at the [AG Algebra, Geometry and Computeralgebra, University of Kaiserslautern](http://www.mathematik.uni-kl.de/en/homepage/)
-:    DFP SPP 1489: [Algorithmic and experimental methods in algebra, geometry, and number theory](https://spp.computeralgebra.de/)
+:    DFG-SPP 1489: [Algorithmic and experimental methods in algebra, geometry, and number theory](https://spp.computeralgebra.de/)
 
 April 2012 - June 2013
 :    Research assistant at the Lehrstuhl B für Mathematik, [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
-
 
 2008 - 2012
 :   Teaching assistant at the Lehrstuhl B für Mathematik, [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
