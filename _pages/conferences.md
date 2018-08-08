@@ -28,6 +28,7 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 | [Annual meeting SFB TRR 195](http://www.math.uni-tuebingen.de/arbeitsbereiche/geometrie/annual-meeting-sfb-trr-195-1), Tübingen, Germany, September 24 - September 28, 2018
 | [OSCAR Coding Sprint](https://oscar.computeralgebra.de/meetings/Meeting-11-2018/), Berlin, Germany, November 26 - November 30, 2018
 | [10th polymake workshop and developer meeting](https://polymake.org/doku.php/workshops), Berlin, Germany, January 24 - January 26, 2019
+| [Free Computational Mathematics](https://conferences.cirm-math.fr/1978.html), Luminy, France, February 11 - February 15, 2019
 
 ### Past
 
