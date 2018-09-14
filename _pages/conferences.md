@@ -10,12 +10,11 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 ### Upcoming
 
-| [CAP Days 2018](https://homalg-project.github.io/capdays-2018/), Siegen, Germany, August 28 - August 31, 2018
-
 ### Past
 
 #### 2018
 
+| [CAP Days 2018](https://homalg-project.github.io/capdays-2018/), Siegen, Germany, August 28 - August 31, 2018
 | [Jupyter in GAP and other CAS](http://gapdays.de/gap-jupyter-days2018/), St Andrews, UK, June 4 - June 8, 2018
 | [OSCAR Coding Sprint](https://oscar.computeralgebra.de/meetings/Meeting-5-2018/), Siegen, Germany, May 14 - May 18, 2018
 | [OSCAR Coding Sprint](https://oscar.computeralgebra.de/meetings/Meeting-1-2018/), Aachen, Germany, January 15 - January 19, 2018
@@ -30,6 +29,7 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 | [10th polymake workshop and developer meeting](https://polymake.org/doku.php/workshops), Berlin, Germany, January 24 - January 26, 2019
 | [Free Computational Mathematics](https://conferences.cirm-math.fr/1978.html), Luminy, France, February 11 - February 15, 2019
 | [Retreat/Hide-away of the SFB-TRR 195](https://www.computeralgebra.de/sfb/events/), Bad Münster am Stein, Germany, February 18 - February 21, 2019
+| [Research in Pairs](https://www.mfo.de/scientific-programme/long-term/research-in-pairs), Mathematisches Forschungsinstitut Oberwolfach, Germany, April 2019
 
 ### Past
 
