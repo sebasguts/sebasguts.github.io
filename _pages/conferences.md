@@ -23,12 +23,15 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 ### Upcoming
 
-| [10th polymake workshop and developer meeting](https://polymake.org/doku.php/workshops), Berlin, Germany, January 24 - January 26, 2019
 | [Free Computational Mathematics](https://conferences.cirm-math.fr/1978.html), Luminy, France, February 11 - February 15, 2019
 | [Retreat/Hide-away of the SFB-TRR 195](https://www.computeralgebra.de/sfb/events/), Bad Münster am Stein, Germany, February 18 - February 21, 2019
+| [GAP Days Spring 2019](https://www.gapdays.de/gapdays2019-spring/), Halle, Germany, March 18 - March 22, 2019
 | [Research in Pairs](https://www.mfo.de/scientific-programme/long-term/research-in-pairs), Mathematisches Forschungsinstitut Oberwolfach, Germany, April 2019
 
 ### Past
+
+#### 2019
+| [10th polymake workshop and developer meeting](https://polymake.org/doku.php/workshops), Berlin, Germany, January 24 - January 26, 2019
 
 #### 2018
 
@@ -41,3 +44,4 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 | [GDMV Tagung](http://www.gdmv2018.de/), Paderborn, Germany, March 5 - March 9, 2018 [(Slides)](../downloads/2018_03_06_GDMV2018.pdf)
 | [9th polymake workshop and developer meeting](https://polymake.org/doku.php/workshop0218), Berlin, Germany, February 8 - February 10, 2018
 | [Jupyter Widget Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), Paris, France, January 23 - January 26, 2018
+
