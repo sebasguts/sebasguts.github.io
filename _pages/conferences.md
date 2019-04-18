@@ -10,6 +10,9 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 ### Upcoming
 
+| [OSCAR Coding Sprint](https://oscar.computeralgebra.de/), Kaiserslautern, Germany, June, 2019
+| [GAP Singular Meeting](https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/), Lambrecht, Germany, August 15 - August 23, 2019
+
 ### Past
 
 #### 2018
@@ -23,14 +26,16 @@ Conferences and workshops I attend(ed) or (co)organize(d):
 
 ### Upcoming
 
-| [Free Computational Mathematics](https://conferences.cirm-math.fr/1978.html), Luminy, France, February 11 - February 15, 2019
-| [Retreat/Hide-away of the SFB-TRR 195](https://www.computeralgebra.de/sfb/events/), Bad Münster am Stein, Germany, February 18 - February 21, 2019
-| [GAP Days Spring 2019](https://www.gapdays.de/gapdays2019-spring/), Halle, Germany, March 18 - March 22, 2019
-| [Research in Pairs](https://www.mfo.de/scientific-programme/long-term/research-in-pairs), Mathematisches Forschungsinstitut Oberwolfach, Germany, April 2019
+| [Research in Pairs](https://www.mfo.de/scientific-programme/long-term/research-in-pairs), Mathematisches Forschungsinstitut Oberwolfach, Germany, April 22 - May 2, 2019
+| [Sage Days 101](https://wiki.sagemath.org/days101), Cernay, France, June 17 - June 21, 2019
 
 ### Past
 
 #### 2019
+
+| [GAP Days Spring 2019](https://www.gapdays.de/gapdays2019-spring/), Halle, Germany, March 18 - March 22, 2019
+| [Retreat/Hide-away of the SFB-TRR 195](https://www.computeralgebra.de/sfb/events/), Bad Münster am Stein, Germany, February 18 - February 21, 2019
+| [Free Computational Mathematics](https://conferences.cirm-math.fr/1978.html), Luminy, France, February 11 - February 15, 2019
 | [10th polymake workshop and developer meeting](https://polymake.org/doku.php/workshops), Berlin, Germany, January 24 - January 26, 2019
 
 #### 2018
